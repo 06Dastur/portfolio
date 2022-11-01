@@ -367,4 +367,8 @@ header{
     column-gap: 3rem;
     align-items: center;
 	}
+	.fa-search:before {
+    content: "\f002";
+    margin-left: -50px;
+	}
 }
